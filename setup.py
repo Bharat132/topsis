@@ -13,6 +13,7 @@ setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/Bharat132/topsis",
+    download_url="https://github.com/Bharat132/topsis/archive/master.zip",
     author="Bharat Chauhan",
     author_email="bharatchauhan752000@gmail.com",
     license="MIT",
