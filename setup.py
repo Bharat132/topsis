@@ -12,7 +12,7 @@ setup(
     description="A TOPSIS Python package.",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Bharat132/topsis",
     author="Bharat Chauhan",
     author_email="bharatchauhan752000@gmail.com",
     license="MIT",
